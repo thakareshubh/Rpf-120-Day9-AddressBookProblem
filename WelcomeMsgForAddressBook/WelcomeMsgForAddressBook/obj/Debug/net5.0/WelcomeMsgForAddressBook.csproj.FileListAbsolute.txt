@@ -1,0 +1,16 @@
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.exe
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.deps.json
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.runtimeconfig.json
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.runtimeconfig.dev.json
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.dll
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\bin\Debug\net5.0\WelcomeMsgForAddressBook.pdb
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.csproj.AssemblyReference.cache
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.AssemblyInfoInputs.cache
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.AssemblyInfo.cs
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.csproj.CoreCompileInputs.cache
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.dll
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\refint\WelcomeMsgForAddressBook.dll
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.pdb
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\WelcomeMsgForAddressBook.genruntimeconfig.cache
+E:\.net\WelcomeMsgForAddressBook\WelcomeMsgForAddressBook\obj\Debug\net5.0\ref\WelcomeMsgForAddressBook.dll
