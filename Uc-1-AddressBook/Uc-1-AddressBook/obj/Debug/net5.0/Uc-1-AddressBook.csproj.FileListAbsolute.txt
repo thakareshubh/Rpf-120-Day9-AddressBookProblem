@@ -1,0 +1,16 @@
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.exe
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.deps.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.runtimeconfig.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.runtimeconfig.dev.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\bin\Debug\net5.0\Uc-1-AddressBook.pdb
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.csproj.AssemblyReference.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.AssemblyInfoInputs.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.AssemblyInfo.cs
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.csproj.CoreCompileInputs.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\refint\Uc-1-AddressBook.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.pdb
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\Uc-1-AddressBook.genruntimeconfig.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-1-AddressBook\Uc-1-AddressBook\obj\Debug\net5.0\ref\Uc-1-AddressBook.dll
