@@ -1,0 +1,16 @@
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.exe
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.deps.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.runtimeconfig.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.runtimeconfig.dev.json
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\bin\Debug\net5.0\Uc-2-AddNewContact.pdb
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.csproj.AssemblyReference.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.AssemblyInfoInputs.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.AssemblyInfo.cs
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.csproj.CoreCompileInputs.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\refint\Uc-2-AddNewContact.dll
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.pdb
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\Uc-2-AddNewContact.genruntimeconfig.cache
+E:\.net\RPF-120-Day9-Assingment-AdressBookProblem\Uc-2-AddNewContact\Uc-2-AddNewContact\obj\Debug\net5.0\ref\Uc-2-AddNewContact.dll
